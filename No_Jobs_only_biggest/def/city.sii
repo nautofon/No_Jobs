@@ -1,0 +1,26 @@
+SiiNunit
+{
+
+# @include "city/bakersfield.sui"
+# @include "city/barstow.sui"
+# @include "city/carlsbad.sui"
+# @include "city/el_centro.sui"
+# @include "city/eureka.sui"
+# @include "city/fresno.sui"
+# @include "city/hilt.sui"
+# @include "city/huron.sui"
+@include "city/los_angeles.sui"
+# @include "city/oakdale.sui"
+# @include "city/oakland.sui"
+# @include "city/oxnard.sui"
+# @include "city/redding.sui"
+@include "city/sacramento.sui"
+# @include "city/san_diego.sui"
+# @include "city/san_francisco.sui"
+# @include "city/santa_cruz.sui"
+# @include "city/santa_maria.sui"
+# @include "city/stockton.sui"
+# @include "city/truckee.sui"
+# @include "city/ukiah.sui"
+
+}

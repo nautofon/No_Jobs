@@ -1,0 +1,21 @@
+SiiNunit
+{
+# ".no_jobs" does not matter as the dot at the beginning of the file means
+# that this unit is anonymous. Please keep this form to not make any conflicts
+# with other mod packages (name collisions).
+mod_package : .no_jobs {
+
+	package_version: "1"
+	display_name: "No Jobs: XXXX"
+
+	# Icon must be JPG with exact size 276 x 162.
+	# icon: "XXXX.jpg"
+
+	# Author can be any string with any length.
+	author: "My Nick"
+
+	category[]: "other"
+	description_file: "README.txt"
+	mp_mod_optional: false
+}
+}

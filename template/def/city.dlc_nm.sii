@@ -1,0 +1,19 @@
+SiiNunit
+{
+
+# @include "city/albuquerque.sui"
+# @include "city/alamogordo.sui"
+# @include "city/artesia.sui"
+# @include "city/carlsbad_nm.sui"
+# @include "city/clovis.sui"
+# @include "city/farmington.sui"
+# @include "city/gallup.sui"
+# @include "city/hobbs.sui"
+# @include "city/las_cruces.sui"
+# @include "city/raton.sui"
+# @include "city/roswell.sui"
+# @include "city/santa_fe.sui"
+# @include "city/socorro.sui"
+# @include "city/tucumcari.sui"
+
+}

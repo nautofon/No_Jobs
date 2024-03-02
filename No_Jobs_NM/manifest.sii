@@ -1,0 +1,14 @@
+SiiNunit
+{
+mod_package : .no_jobs {
+
+	package_version: "1"
+	display_name: "No Jobs: New Mexico"
+	icon: "NM.jpg"
+
+	author: "nautofon"
+	category[]: "other"
+	description_file: "README.txt"
+	mp_mod_optional: false
+}
+}
