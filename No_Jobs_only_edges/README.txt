@@ -13,6 +13,6 @@ Tested with ATS 1.49.
 
 This mod is placed into the Public Domain. You do whatever you want with it! :) Attribution would be appreciated, but is not required. To cite the original source of the idea, feel free to credit the author as [orange]nautofon[normal] and/or link to this mod's discussion thread on the SCS forum.
 
-[blue]https://github.com/nautofon/No_Jobs
+[blue]https://forum.scssoft.com/viewtopic.php?t=327763
 
 [normal]Enjoy!

@@ -4,6 +4,10 @@ No Jobs is a template for
 [American Truck Simulator](https://americantrucksimulator.com/)
 mods that disable the game economy by city.
 
+Please check the discussion thread on the SCS forum for further details:
+
+https://forum.scssoft.com/viewtopic.php?t=327763
+
 
 ### How to create a mod using this template
 
@@ -71,7 +75,7 @@ operating system:
 This project is placed into the [Public Domain](LICENSE).
 If you share your mod with others, attribution would be appreciated,
 but it's not required. Feel free to link to
-the forum thread or
+the [forum thread](https://forum.scssoft.com/viewtopic.php?t=327763) or
 the [GitHub repository](https://github.com/nautofon/No_Jobs).
 
 
@@ -82,7 +86,7 @@ questions posed here (for example, which are the biggest cities). It's only
 meant to provide a few example scenarios for using the No Jobs template,
 and perhaps a fun way to play. Even so, if you take issue with a particular
 city being included or not included in these examples, feel free to comment
-in the forum discussion
+in the [forum discussion](https://forum.scssoft.com/viewtopic.php?t=327763)
 and I'll consider changing the city selection in a future update.
 
 The following example mods are available:
