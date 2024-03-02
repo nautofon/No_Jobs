@@ -97,8 +97,8 @@ be particularly big on their own. Using this example mod will give you
 a lot of opportunities to stick to freeways.
 
 <div>
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_biggest.png" width="280" height="280" align="top" alt="Overview map" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_biggest/only_biggest.jpg" width="138" height="81" align="top" alt="only biggest" />
+<a href="https://github.com/nautofon/No_Jobs/blob/main/screenshots/only_biggest.png"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_biggest.png" width="280" height="280" align="top" alt="Overview map" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_only_biggest"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_biggest/only_biggest.jpg" width="138" height="81" align="top" alt="only biggest" /></a>
 </div>
 
 
@@ -116,8 +116,8 @@ This effect can make it difficult to explore roads along the edge of the
 world map during regular gameplay.
 
 <div>
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_edges.png" width="280" height="280" align="top" alt="Overview map" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_edges/only_edges.jpg" width="138" height="81" align="top" alt="only edges" />
+<a href="https://github.com/nautofon/No_Jobs/blob/main/screenshots/only_edges.png"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_edges.png" width="280" height="280" align="top" alt="Overview map" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_only_edges"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_edges/only_edges.jpg" width="138" height="81" align="top" alt="only edges" /></a>
 </div>
 
 
@@ -129,8 +129,8 @@ rural highways. Note that "remote" doesn't mean the same thing
 in Texas as it does in Idaho.
 
 <div>
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_remotes.png" width="280" height="280" align="top" alt="Overview map" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_remotes/only_remotes.jpg" width="138" height="81" align="top" alt="only remotes" />
+<a href="https://github.com/nautofon/No_Jobs/blob/main/screenshots/only_remotes.png"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/only_remotes.png" width="280" height="280" align="top" alt="Overview map" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_only_remotes"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_only_remotes/only_remotes.jpg" width="138" height="81" align="top" alt="only remotes" /></a>
 </div>
 
 
@@ -142,8 +142,8 @@ major rework since the rescale. Using this example mod may help you
 to avoid areas of low graphical quality.
 
 <div>
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/unreworked.png" width="280" height="280" align="top" alt="Overview map" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_unreworked/unreworked.jpg" width="138" height="81" align="top" alt="unreworked" />
+<a href="https://github.com/nautofon/No_Jobs/blob/main/screenshots/unreworked.png"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/screenshots/unreworked.png" width="280" height="280" align="top" alt="Overview map" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_unreworked"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_unreworked/unreworked.jpg" width="138" height="81" align="top" alt="unreworked" /></a>
 </div>
 
 
@@ -154,18 +154,18 @@ entire state. If you like, you can combine multiple of these to disable
 entire regions.
 
 <div>
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_AZ/AZ.jpg" width="138" height="81" alt="Arizona" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_CA/CA.jpg" width="138" height="81" alt="California" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_CO/CO.jpg" width="138" height="81" alt="Colorado" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_ID/ID.jpg" width="138" height="81" alt="Idaho" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_KS/KS.jpg" width="138" height="81" alt="Kansas" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_MT/MT.jpg" width="138" height="81" alt="Montana" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NV/NV.jpg" width="138" height="81" alt="Nevada" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NM/NM.jpg" width="138" height="81" alt="New Mexico" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_OK/OK.jpg" width="138" height="81" alt="Oklahoma" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_OR/OR.jpg" width="138" height="81" alt="Oregon" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_TX/TX.jpg" width="138" height="81" alt="Texas" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_UT/UT.jpg" width="138" height="81" alt="Utah" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_WA/WA.jpg" width="138" height="81" alt="Washington" />
-<img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_WY/WY.jpg" width="138" height="81" alt="Wyoming" />
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_AZ"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_AZ/AZ.jpg" width="138" height="81" alt="Arizona" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_CA"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_CA/CA.jpg" width="138" height="81" alt="California" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_CO"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_CO/CO.jpg" width="138" height="81" alt="Colorado" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_ID"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_ID/ID.jpg" width="138" height="81" alt="Idaho" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_KS"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_KS/KS.jpg" width="138" height="81" alt="Kansas" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_MT"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_MT/MT.jpg" width="138" height="81" alt="Montana" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_NV"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NV/NV.jpg" width="138" height="81" alt="Nevada" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_NM"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NM/NM.jpg" width="138" height="81" alt="New Mexico" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_OK"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_OK/OK.jpg" width="138" height="81" alt="Oklahoma" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_OR"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_OR/OR.jpg" width="138" height="81" alt="Oregon" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_TX"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_TX/TX.jpg" width="138" height="81" alt="Texas" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_UT"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_UT/UT.jpg" width="138" height="81" alt="Utah" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_WA"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_WA/WA.jpg" width="138" height="81" alt="Washington" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_WY"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_WY/WY.jpg" width="138" height="81" alt="Wyoming" /></a>
 </div>
