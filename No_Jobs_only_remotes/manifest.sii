@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .no_jobs {
 
-	package_version: "1.49"
+	package_version: "1.50"
 	display_name: "No Jobs: only remotes"
 	icon: "only_remotes.jpg"
 

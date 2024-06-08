@@ -7,7 +7,7 @@ When enabling or disabling this mod, the game will behave similar to adding/remo
 
 [orange]Compatibility:[normal]
 
-Tested with ATS 1.49.
+Tested with ATS 1.50.
 
 [orange]Distribution:[normal]
 

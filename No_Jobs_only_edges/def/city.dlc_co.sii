@@ -2,7 +2,7 @@ SiiNunit
 {
 
 # @include "city/alamosa.sui"
-@include "city/burlington.sui"
+# @include "city/burlington.sui"
 # @include "city/colorado_springs.sui"
 # @include "city/denver.sui"
 # @include "city/durango.sui"
@@ -13,6 +13,6 @@ SiiNunit
 # @include "city/pueblo.sui"
 # @include "city/rangely.sui"
 # @include "city/steamboat_springs.sui"
-@include "city/sterling.sui"
+# @include "city/sterling.sui"
 
 }

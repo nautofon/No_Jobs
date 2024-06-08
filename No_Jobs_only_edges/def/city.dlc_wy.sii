@@ -2,7 +2,7 @@ SiiNunit
 {
 
 # @include "city/casper.sui"
-@include "city/cheyenne.sui"
+# @include "city/cheyenne.sui"
 # @include "city/cody.sui"
 # @include "city/evanston.sui"
 @include "city/gillette.sui"
