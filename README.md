@@ -164,6 +164,7 @@ entire regions.
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_ID"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_ID/ID.jpg" width="138" height="81" alt="Idaho" /></a>
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_KS"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_KS/KS.jpg" width="138" height="81" alt="Kansas" /></a>
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_MT"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_MT/MT.jpg" width="138" height="81" alt="Montana" /></a>
+<a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_NE"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NE/NE.jpg" width="138" height="81" alt="Nebraska" /></a>
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_NV"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NV/NV.jpg" width="138" height="81" alt="Nevada" /></a>
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_NM"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_NM/NM.jpg" width="138" height="81" alt="New Mexico" /></a>
 <a href="https://github.com/nautofon/No_Jobs/tree/main/No_Jobs_OK"><img src="https://raw.githubusercontent.com/nautofon/No_Jobs/main/No_Jobs_OK/OK.jpg" width="138" height="81" alt="Oklahoma" /></a>

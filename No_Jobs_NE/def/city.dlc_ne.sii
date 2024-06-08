@@ -1,0 +1,17 @@
+SiiNunit
+{
+
+# @include "city/alliance.sui"
+# @include "city/chadron.sui"
+# @include "city/columbus.sui"
+# @include "city/grand_island.sui"
+# @include "city/lincoln.sui"
+# @include "city/mccook.sui"
+# @include "city/norfolk.sui"
+# @include "city/north_platte.sui"
+# @include "city/omaha.sui"
+# @include "city/scottsbluff.sui"
+# @include "city/sidney_ne.sui"
+# @include "city/valentine.sui"
+
+}
